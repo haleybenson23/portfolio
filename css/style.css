@@ -1,1 +1,10 @@
-/* CSS Styling */
+.header_background {
+    background: rgb(207,151,111);
+    background: radial-gradient(circle, rgba(207,151,111,1) 6%, rgba(133,99,64,1) 82%);
+}
+
+.name_header {
+    font-size: xx-large;
+    text-align: center;
+    color: cornsilk;
+}
