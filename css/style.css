@@ -1,10 +1,14 @@
+/* Font Colors:
+brown - rgb(66,48,29);
+white - #F0F2EF
+green - #40775A */
+
 .header_background {
-    background: rgb(207,151,111);
-    background: radial-gradient(circle, rgba(207,151,111,1) 6%, rgba(133,99,64,1) 82%);
+    background: rgb(66,48,29);
 }
 
-.name_header {
-    font-size: xx-large;
-    text-align: center;
-    color: cornsilk;
+h1.name_header {
+    font-family: 'Noto Serif', serif;
+    font-size: 48px;
+    color: #F0F2EF  
 }
