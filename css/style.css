@@ -10,5 +10,6 @@ green - #40775A */
 h1.name_header {
     font-family: 'Noto Serif', serif;
     font-size: 48px;
-    color: #F0F2EF  
+    color: #F0F2EF; 
+    text-align: center;
 }
