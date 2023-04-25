@@ -7,9 +7,12 @@ green - #40775A */
     background: rgb(66,48,29);
 }
 
+.white-text {
+    color: #F0F2EF;
+}
+
 h1.name_header {
     font-family: 'Noto Serif', serif;
-    font-size: 48px;
-    color: #F0F2EF; 
+    font-size: 48px; 
     text-align: center;
 }
