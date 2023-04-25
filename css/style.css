@@ -14,5 +14,10 @@ green - #40775A */
 h1.name_header {
     font-family: 'Noto Serif', serif;
     font-size: 48px; 
-    text-align: center;
+    text-align: left;
+}
+
+p.para_text {
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poltawski Nowy', serif;
 }
