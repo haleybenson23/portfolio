@@ -20,3 +20,18 @@ p.para_text {
     font-family: 'Noto Serif', serif;
     font-family: 'Poltawski Nowy', serif;
 }
+
+.green_card {
+    background-color: #40775A;
+}
+
+h3.card_text {
+    font-family: 'Noto Serif', serif;
+    font-size: 32px;
+}
+
+p.card_text {
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poltawski Nowy', serif;
+    color: #F0F2EF;
+}
