@@ -37,3 +37,8 @@ p.card_text {
     font-family: 'Poltawski Nowy', serif;
     color: #F0F2EF;
 }
+
+.green_card:hover {
+    transition: all .7s ease-in-out;
+    transform: scale(1.1);
+}
