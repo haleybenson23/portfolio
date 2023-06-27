@@ -6,5 +6,5 @@ I am a recent graduate from Texas State University, majoring in Computer Science
 
 - [haleybenson23/portfolio](https://github.com/haleybenson23/portfolio) - This portfolio!
 - Sharpening my Web Dev language skills in the StorkMentors program!
-- utilizing my Web Dev knowledge to complete requests from clients.
-    - some clients include: (https://themonarchogden.com/)
+- Utilizing my Web Dev knowledge to complete requests from clients.
+    - Some clients include: (https://themonarchogden.com/)
