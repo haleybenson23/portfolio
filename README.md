@@ -5,6 +5,7 @@ I am a recent graduate from Texas State University, majoring in Computer Science
 ### Currently Working On
 
 - [haleybenson23/portfolio](https://github.com/haleybenson23/portfolio) - This portfolio!
+    - You can view the site here: (https://profound-travesseiro-faff49.netlify.app)
 - Sharpening my Web Dev language skills in the StorkMentors program!
 - Utilizing my Web Dev knowledge to complete requests from clients.
     - Some clients include: (https://themonarchogden.com/)
