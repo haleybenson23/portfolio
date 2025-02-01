@@ -27,7 +27,7 @@ function todayDate() {
   let mon = new Array("January","February","March","April","May","June","July","August","September"
   ,"October","November","December");
 
-  document.getElementById('date_display').innerHTML = mon[today.getMonth()] + " " + today.getDay()
+  document.getElementById('date_display').innerHTML = mon[today.getMonth()] + " " + today.getDate()
    + ", " + today.getFullYear();
   setTimeout(todayDate, 1000);
 }

@@ -47,3 +47,11 @@ p.card_text {
     font-style: italic;
     text-decoration-line: underline;
 }
+
+/*styling clock*/
+.clock_style {
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poltawski Nowy', serif;
+    font-size: 72px;
+    text-align: center;
+}
